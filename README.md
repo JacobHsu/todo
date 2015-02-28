@@ -1,4 +1,4 @@
 todo
 ====
 
-Demo: http://htshboy.github.io/todo
+Demo: http://jacobhsu.github.io/todo/
